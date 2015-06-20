@@ -9,5 +9,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/manojpandey/socket-chat.git"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
